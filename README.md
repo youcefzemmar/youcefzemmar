@@ -13,11 +13,6 @@
 </p>
 <br>
 
-## Github Contribution Streak 🔥 
-<br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=youcefzemmar&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-<hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
@@ -172,14 +167,6 @@
 <hr>
 <br>
 
-## Github Contributions 📈
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=youcefzemmar&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
