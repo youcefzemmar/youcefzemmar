@@ -175,7 +175,7 @@
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=youcefzemmar&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -192,7 +192,7 @@
 ## Waka Time Stats 🕰
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=youcefzemmar&theme=github_dark">
 </p>
 
 <hr>
@@ -209,6 +209,6 @@
 <br>
 
 ------
-Credit : [chinmay29hub](https://github.com/youcefzemmar)
+Credit : [youcefzr](https://github.com/youcefzemmar)
 
 Last Edited on : 15/10/2025
