@@ -176,15 +176,6 @@
 <hr>
 <br>
 
-## Waka Time Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=youcefzemmar&theme=github_dark">
-</p>
-
-<hr>
-<br>
-
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 
